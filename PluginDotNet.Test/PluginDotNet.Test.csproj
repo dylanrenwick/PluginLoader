@@ -17,7 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Dependency\Dependency.csproj" />
     <ProjectReference Include="..\PluginDotNet\PluginDotNet.csproj" />
   </ItemGroup>
 
